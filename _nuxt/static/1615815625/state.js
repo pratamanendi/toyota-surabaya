@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ftoyota-surabaya\u002F_nuxt\u002Fstatic\u002F1615815625",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{app:{basePath:"\u002Ftoyota-surabaya\u002F",assetsPath:"\u002Ftoyota-surabaya\u002F_nuxt\u002F",cdnURL:a}}}}(null));
